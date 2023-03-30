@@ -1,5 +1,7 @@
 # Hiii :shipit:
 
+[![Mentioned in Awesome Node.js](https://awesome.re/mentioned-badge.svg)](https://github.com/sindresorhus/awesome-nodejs)
+
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Python+and+hacking;HSp4m)](https://git.io/typing-svg)
   
 ➜ My name is HSp4m, i'm a student of python and hacking
