@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,godot,discord,gamemakerstudio,github,ps,py,replit,unity,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,godot,discord,gamemakerstudio,github,ps,py,replit,unity,vscode,figma&theme=dark" />
   </a>
 </p>
 
