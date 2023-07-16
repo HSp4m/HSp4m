@@ -1,10 +1,10 @@
 # Hiii :shipit:
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Python+and+godot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=1D52F7&vCenter=true&width=435&lines=C%23+Programmer;Luizdodibre)](https://git.io/typing-svg)
   
   
-➜ My name is HSp4m, i'm a student of python, godot, gameMaker2 and unity
+➜ My name is Luizdodibre, i'm a student of c#, rust and react
 
 ## 💫 » My skills
 
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,godot,discord,gamemakerstudio,github,ps,py,replit,unity,vscode,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,js,discord,github,ps,replit,vscode,figma&theme=dark" />
   </a>
 </p>
 
