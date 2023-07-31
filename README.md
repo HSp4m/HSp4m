@@ -1,7 +1,7 @@
 # Hiii :shipit:
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=1D52F7&vCenter=true&width=435&lines=C%23+Programmer;Luizdodibre)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Luizdodibre)](https://git.io/typing-svg)
   
   
 ➜ My name is Luizdodibre, I'm a student of javascript
