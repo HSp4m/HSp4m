@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Luizdodibre)](https://git.io/typing-svg)
   
   
-➜ My name is Luizdodibre, I'm a student of javascript
+➜ My name is Luizdodibre, I'm a student of javascript and python
 
 ## 💫 » My skills
 
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,js,discord,github,ps,replit,vscode,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,js,discord,github,ps,replit,py,vscode,figma&theme=dark" />
   </a>
 </p>
 
