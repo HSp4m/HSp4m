@@ -9,5 +9,5 @@
 <br>
 <p align="center">
     <a href="https://github.com/hsp4m"><img width="48%" src="https://streak-stats.demolab.com?user=HSp4m&theme=dark&hide_border=true&border_radius=10&mode=weekly"></a>
-    <a href="https://github.com/hsp4m"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsp4m&theme=dark&hide=html,css,cmake,yara&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+    <a href="https://github.com/hsp4m"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsp4m&theme=dark&hide=html,css,cmake,yara,slint&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
