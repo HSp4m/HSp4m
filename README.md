@@ -8,6 +8,8 @@
 - 🧑‍💻 My name is Luiz
 - 🎓 I am 13 yo
 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JohnKiruba9)
+
 ## 🏫 What I am learning 
 - Nextjs
 - React
