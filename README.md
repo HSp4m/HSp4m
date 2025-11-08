@@ -7,9 +7,8 @@
 ## About Me
 
 - 👨‍💻 My name is Luiz
-- 🛡️ Cybersecurity Researcher & Developer
+- 🔍 Cybersecurity Researcher & Developer
 - 📍 Brazilian, 14 years old
-- 🔍 Passionate about security research
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/luizdodibre)
 
