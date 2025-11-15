@@ -7,7 +7,7 @@
 ## About Me
 
 - 👨‍💻 My name is Luiz
-- 🔍 Cybersecurity Researcher & Developer
+- ⏰ Cybersecurity Researcher & Developer
 - 📍 Brazilian, 14 years old
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/luizdodibre)
@@ -18,11 +18,3 @@
 - Next.js, React
 - C#
 - And exploring more...
-
-## 📊 GitHub Stats
-
-<img title="GitHub Streak" alt="HSp4m streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hsp4m&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-
-<a href="https://github.com/ahmetskilinc/github-readme-stats">
-  <img alt="HSp4m Github Stats" src="https://github-readme-stats.vercel.app/api?username=hsp4m&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
